@@ -1,0 +1,58 @@
+*.ez
+
+*.un~
+
+*.swp
+
+*.swo
+
+HELP.md
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+### Database ###
+db/*
+
+### mac-os ###
+*.DS_Store
+
+### Elixir ###
+/_build/
+/cover/
+/deps/
+/doc/
+/.fetch
+erl_crash.dump
+*.ez
+*.un~
+*.swp
+/assets/node_modules/
+/priv/static/
+/node_modules/
+/assets/yarn.lock
+yarn.lock
+mix.lock
+PHX_INITIATED
