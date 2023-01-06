@@ -5,6 +5,5 @@
 layout: post
 ---
 
-<<<<<<< HEAD
-This is test4
+This is test6
 =============
